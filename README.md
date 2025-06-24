@@ -17,5 +17,7 @@ Control the notification duration
 
 **Установка**
   `1. Скачайте файл RoundFriendlyFire.dll`
+  
   `2. Поместите в папку %AppData%\EXILED\Plugins`
+  
   `3. Настройте параметры в EXILED/Configs/RFF.yml`
