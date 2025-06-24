@@ -27,7 +27,7 @@ The Round Friendly Fire plugin automatically enables ally damage (Friendly Fire)
 
 
 
-
+# The plugin version corresponds to EXILED version 9.6.1
 
 
 ## 💿Installation
