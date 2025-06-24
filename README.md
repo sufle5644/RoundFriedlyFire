@@ -3,19 +3,27 @@ The Round Friendly Fire plugin automatically enables ally damage (Friendly Fire)
 Main features
 
 **🔥 Automatically activates Friendly Fire when:**
+
 The round ends
+
 Only one team (SCP, Chaos, or MTF) remains alive
 
 **📢 Sends a customizable Friendly Fire message to all players:**
+
 Supports color text and formatting
+
 Customizable display duration
 
 **⚙️ Flexible configuration:**
+
 Enable/disable the plugin
+
 Customize the message
+
 Control the notification duration
 
 **Установка**
+
   `1. Скачайте файл RoundFriendlyFire.dll`
   
   `2. Поместите в папку %AppData%\EXILED\Plugins`
